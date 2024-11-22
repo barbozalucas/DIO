@@ -13,8 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
-
-
+[O-Retorno-do-Rei-Elvis.pdf](https://github.com/user-attachments/files/17876378/O-Retorno-do-Rei-Elvis.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
